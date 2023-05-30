@@ -28,7 +28,7 @@
           "numero": 3,
           "municipio": "Palolandia"
         },
-        "nota_asigantura": 5.5,
+        "nota_asignatura": 5.5,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 658874123
       },
@@ -42,7 +42,7 @@
           "numero": 7,
           "municipio": "Calolandia"
         },
-        "nota_asigantura": 8,
+        "nota_asignatura": 8,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 658897451
       },
@@ -56,7 +56,7 @@
           "numero": 3,
           "municipio": "Madrid"
         },
-        "nota_asigantura": 7,
+        "nota_asignatura": 7,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 689875474
       }
@@ -91,7 +91,7 @@
           "numero": 3,
           "municipio": "Palolandia"
         },
-        "nota_asigantura": 4,
+        "nota_asignatura": 4,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 658874123
       },
@@ -105,7 +105,7 @@
           "numero": 9,
           "municipio": "Alicante"
         },
-        "nota_asigantura": 7.5,
+        "nota_asignatura": 7.5,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 658897451
       },
@@ -119,7 +119,7 @@
           "numero": 5,
           "municipio": "Madrid"
         },
-        "nota_asigantura": 7,
+        "nota_asignatura": 7,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 689875474
       }
@@ -154,7 +154,7 @@
           "numero": 3,
           "municipio": "Palolandia"
         },
-        "nota_asigantura": 8.75,
+        "nota_asignatura": 8.75,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 658874123
       },
@@ -168,7 +168,7 @@
           "numero": 7,
           "municipio": "Calolandia"
         },
-        "nota_asigantura": 3,
+        "nota_asignatura": 3,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 658897451
       },
@@ -182,7 +182,7 @@
           "numero": 3,
           "municipio": "Madrid"
         },
-        "nota_asigantura": 6.5,
+        "nota_asignatura": 6.5,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 689875474
       },
@@ -196,7 +196,7 @@
           "numero": 9,
           "municipio": "Alicante"
         },
-        "nota_asigantura": 9.3,
+        "nota_asignatura": 9.3,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 658897451
       },
@@ -210,7 +210,7 @@
           "numero": 5,
           "municipio": "Madrid"
         },
-        "nota_asigantura": 5,
+        "nota_asignatura": 5,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 689875474
       }
@@ -252,7 +252,7 @@
           "numero": 3,
           "municipio": "Palolandia"
         },
-        "nota_asigantura": 7,
+        "nota_asignatura": 7,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 658874123
       },
@@ -266,7 +266,7 @@
           "numero": 7,
           "municipio": "Calolandia"
         },
-        "nota_asigantura": 8.5,
+        "nota_asignatura": 8.5,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 658897451
       },
@@ -280,7 +280,7 @@
           "numero": 3,
           "municipio": "Madrid"
         },
-        "nota_asigantura": 5,
+        "nota_asignatura": 5,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 689875474
       },
@@ -294,7 +294,7 @@
           "numero": 9,
           "municipio": "Alicante"
         },
-        "nota_asigantura": 1,
+        "nota_asignatura": 1,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 658897451
       }
@@ -340,7 +340,7 @@
           "numero": 3,
           "municipio": "Madrid"
         },
-        "nota_asigantura": 5.5,
+        "nota_asignatura": 5.5,
         "fecha_nacimiento": "12/05/2014"
       },
       {
@@ -357,7 +357,7 @@
           "numero": 3,
           "municipio": "Madrid"
         },
-        "nota_asigantura": 5,
+        "nota_asignatura": 5,
         "fecha_nacimiento": "12/05/2014"
       }
     ]
@@ -391,7 +391,7 @@
           "numero": 9,
           "municipio": "Alicante"
         },
-        "nota_asigantura": 4.5,
+        "nota_asignatura": 4.5,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 658897451
       },
@@ -405,7 +405,7 @@
           "numero": 5,
           "municipio": "Madrid"
         },
-        "nota_asigantura": 5,
+        "nota_asignatura": 5,
         "fecha_nacimiento": "12/05/1995",
         "telefono": 689875474
       }
@@ -451,7 +451,7 @@
           "numero": 3,
           "municipio": "Madrid"
         },
-        "nota_asigantura": 7,
+        "nota_asignatura": 7,
         "fecha_nacimiento": "12/05/2014"
       },
       {
@@ -468,7 +468,7 @@
           "numero": 3,
           "municipio": "Madrid"
         },
-        "nota_asigantura": 9,
+        "nota_asignatura": 9,
         "fecha_nacimiento": "12/05/2014"
       }
     ]
