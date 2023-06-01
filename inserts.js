@@ -1,4 +1,5 @@
-[
+// Insertar datos en colección
+documentos = [
   {
     "nombre":"Matematicas",
     "horario": {
@@ -474,3 +475,6 @@
     ]
   }
 ]
+
+// Insertamos los datos
+coleccion.insert_many(documentos)
